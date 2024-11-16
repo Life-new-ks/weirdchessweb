@@ -1,0 +1,43 @@
+html{
+    background-color: black;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+    background-color: black;
+    margin-left:0px;
+    
+    
+    
+}
+.grid > div{
+
+    background-color: rgb(230, 174, 230);
+    text-align: center;
+    border: 10px;
+    border-color: black;
+    width: 520px;
+}
+img{
+    height: 300px;
+    width: 100%;
+}
+
+header{
+    color: white;
+    font-size: 2.3rem;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+a{
+    color: blueviolet;
+    font-size: x-large;
+}
+a:hover{
+    color: white;
+    text-decoration: solid;
+}

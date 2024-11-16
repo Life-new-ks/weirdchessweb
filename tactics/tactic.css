@@ -1,0 +1,16 @@
+html{
+    background-color: black ;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 200px;
+}
+a{
+    color: violet;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    text-decoration: dotted;
+}

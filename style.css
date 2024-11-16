@@ -1,0 +1,56 @@
+html{
+    background-color: black;
+}
+
+header{
+    color: white;
+    font-size: 2.3rem;
+}
+
+
+.dancing-script{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 10%;
+}
+
+.main{
+    background-color: violet;
+    width: 90%;
+    height: 700px;
+    display: inline-block;
+    position: absolute;
+}
+
+.main img {
+    float: left;
+    height: 700px;
+    margin-right: 10px;
+    
+}
+
+.main h2 {
+    font-size: 2rem;
+}
+.main p{
+    font-size: larger;
+}
+
+.board{
+    position: relative;
+    height: 100px;
+    width: 200px;
+    color: white;
+    border: blue;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: white
+    
+}
+a:hover{
+    color: blueviolet;
+}
